@@ -24,11 +24,11 @@ description: AI, digital sovereignty, FOSS, privacy, and the bots at our door.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://brodjj.github.io"
 
-github:
-  username: brodjj
+#github:
+ # username: brodjj
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+ # username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
