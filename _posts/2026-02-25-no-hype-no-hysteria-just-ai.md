@@ -2,7 +2,7 @@
 title: "No Hype, No Hysteria, Just AI"
 date: 2026-02-25 12:00:00 +1100
 categories: [AI, Opinion]
-tags: [ai, technology, critical thinking, start here]
+tags: [ai, technology, critical thinking, start-here]
 pin: true
 ---
 
