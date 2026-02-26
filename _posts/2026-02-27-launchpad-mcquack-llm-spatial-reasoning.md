@@ -1,6 +1,6 @@
 ---
 title: "LLM Spatial Experiments: Why Launchpad McQuack is still inside a 1992 Fisher-Price toy cash register"
-date: 2026-02-26 12:00:00 +1100
+date: 2026-02-27 12:00:00 +1100
 categories: [AI, LLM Experiments]
 tags: [llm, gemini, spatial reasoning, 90s nostalgia, experiments]
 math: true
