@@ -5,7 +5,7 @@ categories: [AI, Opinion]
 tags: [ai, technology, critical thinking, start-here]
 image:
   path: /assets/img/robot.jpg
-description: A series introduction for people who are exhausted by both the "AI will save humanity" crowd and the "AI will kill us all" crowd. Balanced, occasionally sweary, and stubbornly committed to treating AI like the tool it is, rather than a deity or a supervillain.  
+description: "A series introduction for people who are exhausted by both the "AI will save humanity" crowd and the "AI will kill us all" crowd. Balanced, occasionally sweary, and stubbornly committed to treating AI like the tool it is, rather than a deity or a supervillain."  
 pin: true
 ---
 
