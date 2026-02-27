@@ -1,0 +1,15 @@
+---
+---
+
+@import "jekyll-theme-chirpy";
+
+.post-preview img, 
+img.preview-img {
+  filter: grayscale(100%) sepia(80%) hue-rotate(250deg) saturate(150%);
+  transition: filter 0.3s ease;
+}
+
+.post-preview img:hover,
+img.preview-img:hover {
+  filter: none;
+}
