@@ -5,14 +5,11 @@ categories: [AI, Parenting]
 tags: [ai, parenting, education, digital literacy, critical thinking]
 description: "Seven practical skills to help your kids thrive in an AI-saturated world, none of which require a subscription or a PhD."
 image:
-  path: /assets/img/posts/pencils.jpg
+  path: /assets/img/pencils.jpg
   alt: "Coloured pencils standing upright"
 ---
 
 # What I'm Teaching My Kids About Living in a Post-AI World
-
-![Coloured pencils standing upright](/assets/img/posts/pencils.jpg)
-_Low-tech tools. Still relevant._
 
 There's a particular kind of parental panic that sets in when you're watching your kid navigate a touchscreen with the casual confidence of a seasoned UX researcher, while simultaneously being unable to tie their shoelaces. If you've got kids old enough to have opinions about screen time but still young enough to think Dad knows things, you've got a narrow window to teach them some life skills before some botoxed TikTok influencer does it for you.
 
