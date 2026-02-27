@@ -6,7 +6,6 @@ tags: [ai, parenting, education, digital literacy, critical thinking]
 description: "Seven practical skills to help your kids thrive in an AI-saturated world, none of which require a subscription or a PhD."
 image:
   path: /assets/img/pencils.jpg
-  alt: "Coloured pencils standing upright"
 ---
 
 # What I'm Teaching My Kids About Living in a Post-AI World
