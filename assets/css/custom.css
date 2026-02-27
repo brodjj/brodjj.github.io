@@ -1,8 +1,14 @@
-.col-md-5 img {
+.post-preview img {
   filter: grayscale(100%) sepia(80%) hue-rotate(250deg) saturate(150%) !important;
   transition: filter 0.3s ease !important;
 }
 
-.col-md-5 img:hover {
+.post-preview:hover img {
   filter: none !important;
+}
+
+.post-preview:hover .preview-img::before,
+.post-preview:hover .preview-img::after {
+  display: none !important;
+  opacity: 0 !important;
 }
