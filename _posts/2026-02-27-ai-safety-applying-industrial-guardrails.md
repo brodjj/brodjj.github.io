@@ -5,6 +5,7 @@ categories: [AI, Safety]
 tags: [ai safety, regulation, industrial safety, accountability]
 image:
   path: /assets/img/industry.jpg
+description: AI companies deploy systems that hurt people, then act like accountability is some exotic philosophical concept we haven't invented yet. Spoiler: we have. We figured this out for factory equipment a century ago. It's time to stop pretending algorithms deserve a free pass that hydraulic presses don't.
 ---
 
 Picture this: A factory worker gets their arm mangled in a production line because the company couldn't be arsed installing basic safety guards. What happens next? The company gets sued into oblivion, WorkSafe storms the place and starts a betting pool on how many OH&S violations they can find, and everyone agrees that maybe, just maybe, the company should have spent a few hundred bucks on those guard rails.
