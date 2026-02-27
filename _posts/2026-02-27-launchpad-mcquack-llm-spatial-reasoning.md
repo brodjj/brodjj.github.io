@@ -4,6 +4,7 @@ date: 2026-02-27 18:00:00 +1100
 categories: [AI, LLM Experiments]
 tags: [llm, gemini, spatial reasoning, 90s nostalgia, experiments]
 math: true
+description: "What do a DuckTales figurine, a 30-year-old toy cash register, and someone else's ruined childhood collectibles have to do with AI? More than you'd think. A real-world spatial reasoning problem reveals what LLMs can and can't actually do, and why the difference matters more than you'd expect."
 image:
   path: /assets/img/ducktales.jpg
 ---
