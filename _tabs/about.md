@@ -16,7 +16,7 @@ If you're expecting hot takes about the singularity or wide-eyed predictions abo
 
 — Brod
 
-###A note on opinions and accuracy
+### A note on opinions and accuracy
 
 Everything on this blog represents my own views and observations - not those of any current or former employer, client, or anyone else unfortunate enough to have been professionally associated with me.
 
