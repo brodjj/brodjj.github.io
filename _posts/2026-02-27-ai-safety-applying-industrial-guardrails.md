@@ -76,21 +76,20 @@ The parallels between industrial machinery and AI systems aren't just convenient
 
 ```mermaid
 flowchart TD
-    A["Company deploys tool to make money"] --> B{"Did they test it\nproperly?"}
-    B -->|Yes| C{"Does it hurt\nsomeone anyway?"}
+    A["Company deploys tool to make money"] --> B{"Did they test it properly?"}
+    B -->|Yes| C{"Does it hurt someone anyway?"}
     B -->|No| D["Someone gets hurt"]
     C -->|No| E["Great. Keep monitoring."]
-    C -->|Yes| F{"Was the harm\nforeseeable?"}
+    C -->|Yes| F{"Was the harm foreseeable?"}
     D --> G["Company is liable"]
     F -->|Yes| G
-    F -->|No| H["Investigate and\nimprove safeguards"]
+    F -->|No| H["Investigate and improve safeguards"]
 
     style G fill:#d94f4f,color:#fff,stroke:#b33a3a
     style E fill:#4a9e6e,color:#fff,stroke:#3a7d56
     style H fill:#d4a843,color:#fff,stroke:#b08c36
 
-    I["🏭 This is how it works\nfor factory equipment"] ~~~ J["🤖 This is how it should\nwork for AI systems"]
-
+    
     style I fill:#3a7ca5,color:#fff,stroke:#2d6080
     style J fill:#3a7ca5,color:#fff,stroke:#2d6080
 ```
