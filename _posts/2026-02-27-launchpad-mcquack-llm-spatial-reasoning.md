@@ -235,7 +235,7 @@ The solutions Gemini provided? They're not derived from imagining the spatial pr
 
 This is why Gemini could be seemingly accurate in its descriptions of a 90s Launchpad figurine and a toddler's cash register, not because it can "see" the toys, but because there are likely thousands of forum posts, repair guides, and nostalgic blog posts about these exact toys in its training data. It's matching my description against a massive library of human obsession and problem-solving.
 
-![Google search results for jammed cash register](/assets/img/screenshot.jpg)
+![Google search results for jammed cash register](/assets/img/screenshot.png)
 _A quick Google search reveals that I'm not the first idiot to ask the internet how to extract a jammed object from a toy cash register._
 
 The impressive part? For many practical purposes, this distinction doesn't matter. Gemini's suggestions would probably work. The important part? We humans need to understand that this isn't actually spatial reasoning, it's linguistic reasoning *about* spatial concepts. And that distinction becomes crucial when you move beyond well-documented problems into novel spatial scenarios that don't have obvious matches in the training data.
