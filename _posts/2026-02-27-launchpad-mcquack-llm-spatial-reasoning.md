@@ -240,9 +240,6 @@ _A quick Google search reveals that I'm not the first idiot to ask the internet 
 
 The impressive part? For many practical purposes, this distinction doesn't matter. Gemini's suggestions would probably work. The important part? We humans need to understand that this isn't actually spatial reasoning, it's linguistic reasoning *about* spatial concepts. And that distinction becomes crucial when you move beyond well-documented problems into novel spatial scenarios that don't have obvious matches in the training data.
 
-![Michael Scott drives into a lake](/assets/img/mscott.jpg)
-_20 years ago, Michael Scott learned the hard way that you shouldn't blindly follow directions from a robot._
-
 Launchpad McQuack is still in that cash register somewhere in suburban Melbourne, entombed since 1992. And while Gemini can tell me how to get him out, it's doing so through the accumulated chatter of humans solving similar problems, not through any actual understanding of what it's like to peer into a toy cash register and see a dead-eyed duck staring back at you.
 
 That image, unfortunately, is mine alone.
