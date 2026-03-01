@@ -40,15 +40,15 @@ Let's tour the highlight reel:
 
 ### Healthcare: Where "hallucination" means "potentially fatal medical advice"
 
-AI diagnostic systems hallucinate false medical information at rates between 8% and 20%. One system incorrectly tagged benign nodules as cancerous 12% of the time, leading to unnecessary surgeries. AI-generated patient summaries have included fabricated symptoms and treatments.
+According to a review by BHM Healthcare Solutions drawing on studies published in JAMA Otolaryngology and JMIR Medical Informatics, AI diagnostic systems hallucinate false medical information at rates between 8% and 20%. One system incorrectly tagged benign nodules as cancerous 12% of the time, leading to unnecessary surgeries. AI-generated patient summaries have included fabricated symptoms and treatments.
 
 If a medical device company released a diagnostic tool with a 12% false positive rate for cancer, they'd be sued into a fine powder. But when it's AI, we call it a "hallucination" like it's some quirky personality trait instead of potentially deadly misinformation.
 
-### Legal: ChatGPT Invents Case Law, Lawyers Somehow Don't Notice
+### Legal: LLM Invents Case Law, Lawyers Somehow Don't Notice
 
-Multiple lawyers have submitted court filings based on AI-generated legal research featuring completely made-up case citations. In the Gauthier v. Goodyear Tire case (2024), a lawyer in the States used ChatGPT for research and filed briefs citing cases that literally do not exist, complete with fabricated quotations. The judge noted, with what I imagine was superhuman restraint, that submitting fake precedents to a court "causes significant harm to the legal system."
+Multiple lawyers have submitted court filings based on AI-generated legal research featuring completely made-up case citations. In the Gauthier v. Goodyear Tire case (2024), a lawyer in the States used an LLM tool for research and filed briefs citing cases that literally do not exist, complete with fabricated quotations. The judge noted, with what I imagine was superhuman restraint, that submitting fake precedents to a court "causes significant harm to the legal system."
 
-You know what we used to call it when lawyers submitted fabricated evidence to courts? Fraud. But now it's just "oopsie, the AI did a whoopsie."
+You know what we used to call it when lawyers submitted fabricated evidence to courts? Professional misconduct. But now it's just "oopsie, the AI did a whoopsie."
 
 ### Housing: Discrimination at Scale, Now Automated!
 
@@ -89,8 +89,6 @@ flowchart TD
     style E fill:#4a9e6e,color:#fff,stroke:#3a7d56
     style H fill:#d4a843,color:#fff,stroke:#b08c36
 
-  
- 
 ```
 
 When you install heavy machinery without safeguards, it's foreseeable someone might get hurt. When you name a driving system "Full Self-Driving" and pair it with inadequate attention monitoring, it's entirely foreseeable that drivers will over-rely on it and stop paying attention. When your robotaxi can't detect a human being pinned underneath it, that's not an "edge case," that's a fundamental design failure.
@@ -162,3 +160,4 @@ Industrial safety law settled this debate a century ago: Adequate guardrails are
 10. "Federal regulator finds Tesla Autopilot has 'critical safety gap' linked to hundreds of collisions," NBC News, April 26, 2024
 11. AI Incident Database, Partnership on AI (<https://incidentdatabase.ai>)
 12. MIT AI Risk Repository (<https://airisk.mit.edu>)
+13. "AI Hallucination in Healthcare Use," BHM Healthcare Solutions, December 2024, citing studies from JAMA Otolaryngology and JMIR Medical Informatics, <https://bhmpc.com/2024/12/ai-hallucination/>
