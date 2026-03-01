@@ -6,6 +6,7 @@ tags: [ai safety, regulation, industrial safety, accountability]
 description: "AI companies deploy systems that hurt people, then act like accountability is some exotic philosophical concept we haven't invented yet. Spoiler: we have. We figured this out for factory equipment a century ago. It's time to stop pretending algorithms deserve a free pass that hydraulic presses don't."
 image:
   path: /assets/img/industry.jpg
+mermaid: true
 ---
 
 Picture this: A factory worker gets their arm mangled in a production line because the company couldn't be arsed installing basic safety guards. What happens next? The company gets sued into oblivion, WorkSafe storms the place and starts a betting pool on how many OH&S violations they can find, and everyone agrees that maybe, just maybe, the company should have spent a few hundred bucks on those guard rails.
@@ -73,6 +74,27 @@ McDonald's canned their AI drive-thru partnership with IBM in June 2024 after vi
 
 The parallels between industrial machinery and AI systems aren't just convenient analogies. They're the same thing in every way that matters. Both are tools companies deliberately deploy for profit. Both require testing before you unleash them on the world. Both can seriously hurt people when they break. And both create entirely foreseeable risks that companies have a duty to mitigate.
 
+```mermaid
+flowchart TD
+    A["Company deploys tool to make money"] --> B{"Did they test it\nproperly?"}
+    B -->|Yes| C{"Does it hurt\nsomeone anyway?"}
+    B -->|No| D["Someone gets hurt"]
+    C -->|No| E["Great. Keep monitoring."]
+    C -->|Yes| F{"Was the harm\nforeseeable?"}
+    D --> G["Company is liable"]
+    F -->|Yes| G
+    F -->|No| H["Investigate and\nimprove safeguards"]
+
+    style G fill:#d94f4f,color:#fff,stroke:#b33a3a
+    style E fill:#4a9e6e,color:#fff,stroke:#3a7d56
+    style H fill:#d4a843,color:#fff,stroke:#b08c36
+
+    I["🏭 This is how it works\nfor factory equipment"] ~~~ J["🤖 This is how it should\nwork for AI systems"]
+
+    style I fill:#3a7ca5,color:#fff,stroke:#2d6080
+    style J fill:#3a7ca5,color:#fff,stroke:#2d6080
+```
+
 When you install heavy machinery without safeguards, it's foreseeable someone might get hurt. When you name a driving system "Full Self-Driving" and pair it with inadequate attention monitoring, it's entirely foreseeable that drivers will over-rely on it and stop paying attention. When your robotaxi can't detect a human being pinned underneath it, that's not an "edge case," that's a fundamental design failure.
 
 Safety regulators require continuous monitoring and immediate hazard correction for industrial equipment. But many AI companies treat deployment like shipping code to production: push it live, hope for the best, maybe check the error logs next quarter. When a factory machine keeps injuring workers after a "fix," regulators shut it down. Autonomous vehicles with known defects keep rolling.
@@ -108,23 +130,17 @@ These aren't revolutionary ideas. They're established legal principles: duty of 
 
 ## The usual objections (and why they're bollocks)
 
-**"AI is too complex and unpredictable!"**
+> **"AI is too complex and unpredictable!"** So are nuclear power plants. So is commercial aviation. So is pharmaceutical manufacturing. We still hold operators accountable. If your AI is too unpredictable to ensure it won't kill people or ruin their lives, don't let it loose on the world. This is not a high bar.
+{: .prompt-warning }
 
-So are nuclear power plants. So is commercial aviation. So is pharmaceutical manufacturing. We still hold operators accountable. If your AI is too unpredictable to ensure it won't kill people or ruin their lives, don't let it loose on the world. This is not a high bar.
+> **"You'll stifle innovation!"** People said this about literally every safety regulation in history. Workplace safety laws didn't destroy manufacturing. Pharmaceutical testing requirements didn't end drug development, they just stopped us from messing up people with thalidomide. Safety requirements drive better engineering. They just force companies to spend money on not-killing-people instead of assuming society will cop the costs of their failures.
+{: .prompt-warning }
 
-**"You'll stifle innovation!"**
+> **"The benefits outweigh the risks!"** Cool story. Automobiles provide massive benefits, but car manufacturers still face liability for defective designs. Bridges are super useful, but engineers who design collapsing bridges face consequences. Autonomous vehicle companies love to claim their systems are safer than human driving, but as experts point out, this methodology is dodgy, it compares dissimilar driving scenarios and conditions. And it doesn't address the fundamental issue: people are dying because of systems with known, foreseeable flaws.
+{: .prompt-warning }
 
-People said this about literally every safety regulation in history. Workplace safety laws didn't destroy manufacturing. Pharmaceutical testing requirements didn't end drug development, they just stopped us from messing up people with thalidomide. Safety requirements drive better engineering. They just force companies to spend money on not-killing-people instead of assuming society will cop the costs of their failures.
-
-**"The benefits outweigh the risks!"**
-
-Cool story. Automobiles provide massive benefits, but car manufacturers still face liability for defective designs. Bridges are super useful, but engineers who design collapsing bridges face consequences. Autonomous vehicle companies love to claim their systems are safer than human driving, but as experts point out, this methodology is dodgy, it compares dissimilar driving scenarios and conditions. And it doesn't address the fundamental issue: people are dying because of systems with known, foreseeable flaws.
-
-**"These are rare edge cases!"**
-
-AI incidents increased 56.4% year-over-year. Autonomous vehicle crashes peaked at 80 per month in late 2024. That's not "rare edge cases." That's a growing problem.
-
-"Edge cases" matter enormously to the people in them. Ask the families of autonomous vehicle crash victims if their loved ones were acceptable collateral damage.
+> **"These are rare edge cases!"** AI incidents increased 56.4% year-over-year. Autonomous vehicle crashes peaked at 80 per month in late 2024. That's not "rare edge cases." That's a growing problem. "Edge cases" matter enormously to the people in them. Ask the families of autonomous vehicle crash victims if their loved ones were acceptable collateral damage.
+{: .prompt-warning }
 
 ## Conclusion: Stop making this weird
 
