@@ -89,9 +89,8 @@ flowchart TD
     style E fill:#4a9e6e,color:#fff,stroke:#3a7d56
     style H fill:#d4a843,color:#fff,stroke:#b08c36
 
-    
-    style I fill:#3a7ca5,color:#fff,stroke:#2d6080
-    style J fill:#3a7ca5,color:#fff,stroke:#2d6080
+  
+ 
 ```
 
 When you install heavy machinery without safeguards, it's foreseeable someone might get hurt. When you name a driving system "Full Self-Driving" and pair it with inadequate attention monitoring, it's entirely foreseeable that drivers will over-rely on it and stop paying attention. When your robotaxi can't detect a human being pinned underneath it, that's not an "edge case," that's a fundamental design failure.
