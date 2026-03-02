@@ -17,7 +17,10 @@ I'm approaching this topic with a set of core philosophies to annoy both the AI 
 
 It's a technology. Like any other technology, it can have positive or negative applications. It can be deployed well, and it can be deployed catastrophically badly (see: other entries in this series).
 
-Fire gave us cooking and warmth. It also gave us arson. Electricity powers hospitals. It also powers pokie machines that cheat retirees out of their life savings. The internet connected the world. It also gave us social media. The technology itself is more or less neutral, it's what we do with it that matters.
+Fire gave us cooking and warmth. It also gave us arson. Electricity powers hospitals. It also powers pokie machines that cheat retirees out of their life savings. The internet connected the world. It also gave us social media. 
+
+> AI technology itself is more or less neutral. It's what we do with it that matters.
+{: .prompt-tip }
 
 AI is the same deal. It's not going to save humanity, and it's probably not going to exterminate us either. It's just another tool that humans will use to do both brilliant and spectacularly stupid things, often simultaneously.
 
@@ -38,9 +41,10 @@ This doesn't mean we have to accept whatever gets thrown at us. But it does mean
 
 Here's where the conversation usually goes off the rails. Yes, AI is novel. Yes, it's fascinating. Yes, the technology is developing at a mind-blowing pace. But that doesn't mean we need to throw out every existing framework for thinking about technology, law, ethics, and accountability.
 
-At the end of the day, AI is software. It's developed by companies to perform tasks, usually to make money. If it doesn't do its job accurately or safely, we shouldn't give it a pass just because it feels different to traditional software systems.
+> At the end of the day, AI is software. It's developed by companies to perform tasks, usually to make money.
+{: .prompt-info }
 
-When your spreadsheet crashes and corrupts a month's worth of data, you don't shrug and say "well, software is just too complex to be held to normal standards." When your online banking app has a security flaw, the bank doesn't get to claim "the system is too mysterious for us to be responsible." When an autonomous vehicle kills someone, the company shouldn't escape liability because "AI is cutting edge."
+If AI doesn't do its job accurately or safely, we shouldn't give it a pass just because it feels different to traditional software systems. When your online banking app has a security flaw, the bank doesn't get to claim "the system is too mysterious for us to be responsible." When an autonomous vehicle kills someone, the company shouldn't escape liability because "AI is cutting edge."
 
 A general theme you'll see throughout this series is discussing precedents, logic, and practices from the current tech and economic landscape that are readily applicable to AI. We've dealt with automation before. We've dealt with complex systems before. We've dealt with technologies that companies deploy without adequate testing before. We have legal frameworks, ethical principles, and regulatory approaches that work. Let's use them.
 
