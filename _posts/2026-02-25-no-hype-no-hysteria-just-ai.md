@@ -23,7 +23,10 @@ AI is the same deal. It's not going to save humanity, and it's probably not goin
 
 ## AI is here to stay
 
-I hate to break it to you, but we're not rolling back the clock on this one. Thomas Hughes' theory of technological momentum suggests that once a technology reaches a certain level of adoption, it gathers inertia to proliferate more widely and become enmeshed in society. You can't un-invent it, and you can't wish it away.
+I hate to break it to you, but we're not rolling back the clock on this one. 
+
+> Thomas Hughes' theory of technological momentum suggests that once a technology reaches a certain level of adoption, it gathers inertia to proliferate more widely and become enmeshed in society. You can't un-invent it, and you can't wish it away.
+{: .prompt-info }
 
 We've seen this play out before. Personal computers went from niche hobby kits for nerds to being in every home and office. Mobile phones went from luxury item for stockbrokers to luxury item for entitled teenagers. The internet went from that "computer thing in university libraries" to being so fundamental to modern life that losing your Wi-Fi feels like a legitimate crisis.
 
@@ -51,7 +54,10 @@ Here's my take: We don't currently have the data, methodologies, or instruments 
 
 However, where I differ from the AI evangelists and wild optimists is that I see the unknown as possibly containing danger, and that in itself is cause for proceeding with caution.
 
-You don't just run into a dark cave and hope there isn't a bear inside. You look ahead. You bring a torch. You tread carefully. You maybe check if anyone else has been in the cave recently and whether they came back out. This isn't being a pessimist or a luddite, it's being sensible.
+> You don't just run into a dark cave and hope there isn't a bear inside. You look ahead. You bring a torch. You tread carefully.
+{: .prompt-warning }
+
+This isn't being a pessimist or a luddite. It's being sensible.
 
 The real risks from AI aren't some far-future scenario where Skynet achieves consciousness and decides humans are the problem. The real risks are happening right now: Biased algorithms denying people housing, medical AI hallucinating dangerous advice, autonomous vehicles that don't stop for pedestrians, chatbots encouraging vulnerable people toward self-harm, and companies deploying half-baked systems without adequate testing because "moving fast and breaking things" is more profitable than "moving carefully and not breaking people".
 
