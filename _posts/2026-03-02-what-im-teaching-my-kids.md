@@ -24,7 +24,10 @@ I'm mediocre at roughly half of what follows. But even that mediocre level of co
 
 AI can generate a competent first draft of almost anything. It can write, draw, compose, and produce content at a pace that would make a 1980s advertising agency blow their cocaine budget. What it can't do (at least not yet) is have a genuinely original idea. The kind of lateral, "what if we just tried something different" thinking that gave us the motorcycle, punk rock, and the mullet (two out of three of which were good ideas).
 
-Creative thinking is how humans add value in an AI-assisted world. It's the ability to steer the machine somewhere interesting, rather than just asking it to reproduce something that already exists. The person who walks into a room with an interesting angle nobody else considered will always be more valuable than the person who can produce a competent version of what everyone else is already doing. AI has the competent version covered. Your kid needs to bring the interesting angle.
+Creative thinking is how humans add value in an AI-assisted world. It's the ability to steer the machine somewhere interesting, rather than just asking it to reproduce something that already exists.
+
+> The person who walks into a room with an interesting angle nobody else considered will always be more valuable than the person who can produce a competent version of what everyone else is already doing. AI has the competent version covered. Your kid needs to bring the interesting angle.
+{: .prompt-tip }
 
 ### What you can do now
 
@@ -36,7 +39,12 @@ Stock the house with cardboard, paper, sticky tape, and markers. Make little com
 
 ### Why it matters
 
-Before everyone gets comfortable outsourcing all writing to AI, consider this: the quality of what AI produces is almost entirely dependent on the quality of what you put in. Garbage in, garbage out. A principle that predates AI by several decades and applies with equal force to job applications, text messages, and (as several unfortunate American lawyers recently discovered) court filings.
+Before everyone gets comfortable outsourcing all writing to AI, consider this: 
+
+> The quality of what AI produces is almost entirely dependent on the quality of what you put in. Garbage in, garbage out.
+{: .prompt-info }
+
+This principle predates AI by several decades and applies with equal force to job applications, text messages, and trying to appeal speeding tickets.
 
 A kid who can read well, write clearly, and do mental arithmetic without reaching for a calculator is a kid who can give precise instructions, spot when something's wrong, and make themselves understood under pressure. In a world where AI is doing a lot of the writing, the person who writes the best brief, prompt, or specification wins. That skill starts with being able to write a decent sentence, which starts earlier than you'd think.
 
@@ -52,7 +60,12 @@ Get them involved in real-world number problems. "Your cousins are coming over S
 
 No matter how automated the economy gets, humans will still need to talk to each other. Negotiate, persuade, comfort, crack a joke at exactly the right moment to defuse a situation heading somewhere bad. The ability to walk into a room, read it quickly, and communicate effectively is not something a chatbot will replace, because the humans in that room aren't interacting with a chatbot. They're interacting with each other, and they can tell the difference.
 
-Employers, clients, colleagues, and everyone else will respond to people who can make them feel heard and occasionally make them laugh. Don't let your kid grow up to be the adult who communicates exclusively through reaction GIFs and can't make eye contact without a screen as a buffer. The iPad generation, with their Cheeto-dust-encrusted fingers and grunt-based communication, is a cliché for a reason. Don't let your kid become the cliché.
+Employers, clients, colleagues, and everyone else will respond to people who can make them feel heard and occasionally make them laugh. 
+
+> Don't let your kid grow up to be the adult who communicates exclusively through reaction GIFs and can't make eye contact without a screen as a buffer.
+{: .prompt-warning }
+
+The iPad generation, with their Cheeto-dust-encrusted fingers and grunt-based communication, is a cliché for a reason. Don't let your kid become the cliché.
 
 ### What you can do now
 
@@ -70,7 +83,10 @@ There's also a confidence that comes from knowing you can handle your environmen
 
 ### What you can do now
 
-The next time you're fixing something around the house, bring the kid. Let them hand you tools, watch what you're doing, and ask annoying questions while you're trying to concentrate. Teach them the classics: "measure twice, cut once," "righty tighty, lefty loosey" (life advice that extends well beyond carpentry), and always wear eye and ear protection when sharp bits of metal are flying around, because eyes don't grow back and neither does your hearing.
+The next time you're fixing something around the house, bring the kid. Let them hand you tools, watch what you're doing, and ask annoying questions while you're trying to concentrate. Teach them the classics: "measure twice, cut once," "righty tighty, lefty loosey" (life advice that extends well beyond carpentry).
+
+> Always wear eye and ear protection when sharp bits of metal are flying around, because eyes don't grow back and neither does your hearing.
+{: .prompt-danger }
 
 Get them a little toolbox and add to it as they get older. Start with the basics: tape measure, pencil, a couple of screwdrivers, an adjustable spanner. Introduce a hammer and sharper tools once they've demonstrated the judgment not to use them recreationally on their sibling. At minimum, you want to raise an adult who can change a tyre, fix a leaky tap, and hang a shelf without jumping on Airtasker and paying three figures for a job that takes twenty minutes. Anything beyond that is a bonus.
 
@@ -80,7 +96,10 @@ Get them a little toolbox and add to it as they get older. Start with the basics
 
 Our caveman brains are wired to run, jump, throw things, and occasionally hit things with sticks. The post-AI world, however sophisticated, is not going to rewire several million years of biology. Physical competence (coordination, fitness, knowing how your body works under pressure) pays dividends across your whole life in ways that are hard to replicate by other means.
 
-Sport also teaches things that are notoriously difficult to teach in any other context: losing gracefully, working as part of a group with a shared goal, and the particular discipline of doing hard things repeatedly until you actually get better at them. These are not skills AI will make redundant. If anything, they'll become more distinctive as everything else gets automated.
+> Sport teaches things that are notoriously difficult to teach in any other context: losing gracefully, working as part of a group with a shared goal, and the particular discipline of doing hard things repeatedly until you actually get better at them.
+{: .prompt-tip }
+
+AI won't make sporting and atheltic skills redundant. If anything, they'll become more distinctive as everything else gets automated.
 
 ### What you can do now
 
@@ -92,7 +111,10 @@ If you're a certified nerd who spent every lunchtime in the computer lab and nev
 
 ### Why it matters
 
-There's a difference between being able to use technology and understanding how it works. Your kid will grow up fluent in apps and interfaces, the same way your generation was fluent in VCR timers and six-disc CD changers (and by "fluent" I mean you could program the VCR but your parents couldn't, which made you a god for roughly three years until DVD players came along and ruined everything).
+> There's a difference between being able to use technology and understanding how it works.
+{: .prompt-info }
+
+Your kid will grow up fluent in apps and interfaces, the same way your generation was fluent in VCR timers and six-disc CD changers (and by "fluent" I mean you could program the VCR but your parents couldn't, which made you a god for roughly three years until DVD players came along and ruined everything).
 
 Real digital literacy is knowing what's happening under the hood: how files are structured, how networks talk to each other, how code tells a computer what to do, and how the platforms harvesting your attention are specifically designed to keep you scrolling.
 
@@ -114,13 +136,18 @@ For the online privacy and safety dimension, track down [*Behind the Screens*](h
 
 Every generation has had to contend with misleading information, bad-faith arguments, and people trying to sell them things they don't need using logic they haven't examined. The AI era has simply upgraded the infrastructure for all of the above. The volume and sophistication of content designed to manipulate, persuade, and extract money or attention from your brain is only going in one direction, and it's not down.
 
-A kid who can identify a logical fallacy, spot a motivated argument, and ask "why is this person telling me this?" is a kid who's going to be significantly harder to con, radicalise, or hustle. In a post-AI world where every second piece of content is either trying to sell you something or confirm a bias you already had, the ability to think clearly is essentially armour. It won't make you popular at family Christmas (nothing will, if you're doing it right), but it'll serve you well everywhere else.
+A kid who can identify a logical fallacy, spot a motivated argument, and ask "why is this person telling me this?" is a kid who's going to be significantly harder to con, radicalise, or hustle. 
+
+> In a post-AI world where every second piece of content is either trying to sell you something or confirm a bias you already had, the ability to think clearly is essentially armour.
+{: .prompt-warning }
+
+This skillset won't make you popular at family Christmas, but it'll serve you well everywhere else.
 
 ### What you can do now
 
-This is the skill where I'd most recommend deferring to actual experts rather than my admittedly patchy memory of second-year university philosophy, which I may have attended with varying degrees of sobriety and Winamp still running on the laptop. A few books worth tracking down: [*The Fallacy Detective*](https://www.amazon.com/Fallacy-Detective-Thirty-Eight-Recognize-Reasoning/dp/0974531596) is well-regarded for ages eleven to fifteen and doesn't assume prior knowledge. [*An Illustrated Book of Bad Arguments*](https://www.amazon.com/Illustrated-Book-Bad-Arguments/dp/1615192255) is short, visually engaging, and works well for younger or more reluctant readers.
+This is the skill where I'd most recommend deferring to actual experts rather than my admittedly patchy memory of second-year university philosophy. A few books worth tracking down: [*The Fallacy Detective*](https://www.amazon.com/Fallacy-Detective-Thirty-Eight-Recognize-Reasoning/dp/0974531596) is well-regarded for ages eleven to fifteen and doesn't assume prior knowledge. [*An Illustrated Book of Bad Arguments*](https://www.amazon.com/Illustrated-Book-Bad-Arguments/dp/1615192255) is short, visually engaging, and works well for younger or more reluctant readers.
 
-In the meantime, practise "why" conversations at home. When your kid makes a claim, ask how they know. When they repeat something they heard, ask where it came from. Model the behaviour of changing your mind when you encounter better information (which sounds simple, but is rarer and more radical in practice than it has any right to be). The goal isn't to raise a cynical kid who trusts nothing. It's to raise a thoughtful kid who asks good questions before deciding what to trust.
+In the meantime, practise "why" conversations at home. When your kid makes a claim, ask how they know. When they repeat something they heard, ask where it came from. Model the behaviour of changing your mind when you encounter better information (which sounds simple, but is rarer and more radical in practice than it has any right to be). The goal isn't to raise a cynical kid who trusts nothing. It's to raise a thoughtful kid who asks good questions before deciding what to trust. 
 
 ## The point isn't to panic. It's to prepare.
 
@@ -128,4 +155,5 @@ Here's the thing about every major technological shift in living memory: the peo
 
 None of the above is exotic or expensive. It's drawing weird pictures and making things out of cardboard. It's reading together and involving your kid in the practical maths of everyday life. It's taking them outside and teaching them that boredom is just an unactivated creative brief. It's showing them how to use a screwdriver and a Linux terminal with roughly equal enthusiasm. It's building the habits of curiosity, resilience, and independent thought that have always been the difference between people who navigate the world on their own terms and people who get steered around by whatever system they happen to be embedded in at the time.
 
-The AI tools your kids inherit will be extraordinary. Make sure they're the ones in the driver's seat.
+> The AI tools your kids inherit will be extraordinary. Make sure they're the ones in the driver's seat.
+{: .prompt-tip }
