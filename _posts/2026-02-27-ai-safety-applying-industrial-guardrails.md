@@ -146,7 +146,7 @@ We figured this out for factory equipment over a century ago. We apply it to car
 
 Industrial safety law settled this debate a century ago: Adequate guardrails aren't optional. Companies are responsible for the tools they unleash on the world. It's time we stopped accepting "but it's AI" as an excuse for preventable harm.
 
-<small markdown="1">
+<div style="font-size: 0.7rem;" markdown="1">
   
 ## References
 
@@ -163,5 +163,4 @@ Industrial safety law settled this debate a century ago: Adequate guardrails are
 11. AI Incident Database, Partnership on AI (<https://incidentdatabase.ai>)
 12. MIT AI Risk Repository (<https://airisk.mit.edu>)
 13. "AI Hallucination in Healthcare Use," BHM Healthcare Solutions, December 2024, citing studies from JAMA Otolaryngology and JMIR Medical Informatics, <https://bhmpc.com/2024/12/ai-hallucination/>
-
-</small>
+</div>
