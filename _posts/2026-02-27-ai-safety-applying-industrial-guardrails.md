@@ -30,7 +30,7 @@ The legal principles governing workplace safety aren't some arcane mystery. They
 
 When companies mess this up, consequences happen. Workers' comp claims. Regulatory breaches. Civil lawsuits. And in truly egregious cases, criminal liability and bankruptcy.
 
-Nobody reckons this system is perfect. But at least everyone agrees on the basic premise: If you deploy dangerous equipment without proper safeguards and someone gets hurt, that's on you. This is not PhD-level philosophy. It's "don't be a negligent arsehole" enshrined in law.
+Nobody reckons this system is perfect. But at least everyone agrees on the basic premise: If you deploy dangerous equipment without proper safeguards and someone gets hurt, that's on you. This is not PhD-level philosophy. It's "don't be criminally negligent" enshrined in law.
 
 ## When AI Systems Fail: A Disaster Compilation
 
@@ -146,6 +146,8 @@ We figured this out for factory equipment over a century ago. We apply it to car
 
 Industrial safety law settled this debate a century ago: Adequate guardrails aren't optional. Companies are responsible for the tools they unleash on the world. It's time we stopped accepting "but it's AI" as an excuse for preventable harm.
 
+<small markdown="1">
+  
 ## References
 
 1. Stanford AI Index Report 2025, cited in "AI Safety Incidents of 2024: Lessons from Real-World Failures," Responsible AI Labs Knowledge Hub
@@ -161,3 +163,5 @@ Industrial safety law settled this debate a century ago: Adequate guardrails are
 11. AI Incident Database, Partnership on AI (<https://incidentdatabase.ai>)
 12. MIT AI Risk Repository (<https://airisk.mit.edu>)
 13. "AI Hallucination in Healthcare Use," BHM Healthcare Solutions, December 2024, citing studies from JAMA Otolaryngology and JMIR Medical Informatics, <https://bhmpc.com/2024/12/ai-hallucination/>
+
+</small>
