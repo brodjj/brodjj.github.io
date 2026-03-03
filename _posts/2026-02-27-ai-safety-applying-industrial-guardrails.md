@@ -15,7 +15,7 @@ This is not a controversial take. It's been the law for decades in any developed
 
 But when AI systems cause harm? Suddenly everyone acts like we need to convene a summit on the philosophical implications of algorithmic responsibility. Companies deploy chatbots that give medical advice, algorithms that deny insurance claims, and autonomous systems that make life-altering decisions, often with the kind of testing you'd expect from a uni student panic-coding their final project at 3am. When these systems inevitably shit the bed, we get earnest TED talks about how AI is "too complex" or "too novel" for our primitive 20th-century legal frameworks.
 
-Here's the thing, like the AIs, this is weapons-grade bullshit.
+Here's the thing, like the AIs, this is weapons-grade nonsense.
 
 AI systems are tools. Fancy tools that make people feel smart when they use words like "neural networks" and "machine learning," but tools nonetheless. And we already have robust legal frameworks for what happens when your tools hurt people. We just collectively developed amnesia about their existence the moment someone mentioned ChatGPT.
 
@@ -24,13 +24,13 @@ AI systems are tools. Fancy tools that make people feel smart when they use word
 The legal principles governing workplace safety aren't some arcane mystery. They've been road-tested for over a century. Under OSHA regulations in the States (and our own Work Health and Safety laws in Australia), employers have a "non-delegable duty" to provide safe working conditions. In plain English, this means:
 
 - **You can't outsource your way out of responsibility.** "But we hired a contractor!" doesn't work. "The equipment manufacturer said 'she'd be right'" doesn't fly. It's your workplace, you're making money from it, you're responsible.
-- **You have to actually check that your equipment won't kill people** before you turn it on. Who'd have thought?!
+- **You have to actually check that your equipment won't kill people** before you turn it on. 
 - **You can't just deploy and forget.** Ongoing monitoring is mandatory. Hazards need to be identified and corrected, not ignored and hoped away like that weird noise your car's been making.
 - **When something goes wrong, you have to do something about it immediately.** "We'll add it to the Q4 roadmap" is not an acceptable response to worker-manglers.
 
-When companies screw this up, consequences happen. Workers' comp claims. Regulatory breaches. Civil lawsuits. And in truly egregious cases, criminal liability and bankruptcy.
+When companies mess this up, consequences happen. Workers' comp claims. Regulatory breaches. Civil lawsuits. And in truly egregious cases, criminal liability and bankruptcy.
 
-Nobody reckons this system is perfect. But at least everyone agrees on the basic premise: If you deploy dangerous equipment without proper safeguards and someone gets hurt, that's on you. This is not PhD-level philosophy. It's "don't be a negligent dickhead" enshrined in law.
+Nobody reckons this system is perfect. But at least everyone agrees on the basic premise: If you deploy dangerous equipment without proper safeguards and someone gets hurt, that's on you. This is not PhD-level philosophy. It's "don't be a negligent arsehole" enshrined in law.
 
 ## When AI Systems Fail: A Disaster Compilation
 
@@ -129,7 +129,7 @@ These aren't revolutionary ideas. They're established legal principles: duty of 
 > **"AI is too complex and unpredictable!"** So are nuclear power plants. So is commercial aviation. So is pharmaceutical manufacturing. We still hold operators accountable. If your AI is too unpredictable to ensure it won't kill people or ruin their lives, don't let it loose on the world. This is not a high bar.
 {: .prompt-warning }
 
-> **"You'll stifle innovation!"** People said this about literally every safety regulation in history. Workplace safety laws didn't destroy manufacturing. Pharmaceutical testing requirements didn't end drug development, they just stopped us from messing up people with thalidomide. Safety requirements drive better engineering. They just force companies to spend money on not-killing-people instead of assuming society will cop the costs of their failures.
+> **"You'll stifle innovation!"** People said this about literally every safety regulation in history. Workplace safety laws didn't destroy manufacturing. Pharmaceutical testing requirements didn't end drug development. Safety requirements drive better engineering by forcing companies to spend money on not-killing-people instead of assuming society will cop the costs of their failures.
 {: .prompt-warning }
 
 > **"The benefits outweigh the risks!"** Cool story. Automobiles provide massive benefits, but car manufacturers still face liability for defective designs. Bridges are super useful, but engineers who design collapsing bridges face consequences. Autonomous vehicle companies love to claim their systems are safer than human driving, but as experts point out, this methodology is dodgy, it compares dissimilar driving scenarios and conditions. And it doesn't address the fundamental issue: people are dying because of systems with known, foreseeable flaws.
