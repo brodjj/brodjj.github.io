@@ -5,7 +5,7 @@ categories: [AI, Opinion]
 tags: [ai, technology, critical thinking, start-here]
 image:
   path: /assets/img/robot.jpg
-description: A series introduction for people who are exhausted by both the "AI will save humanity" crowd and the "AI will kill us all" crowd. Balanced, occasionally sweary, and stubbornly committed to treating AI like the tool it is, rather than a deity or a supervillain.  
+description: An introduction for those of us who are exhausted by the alternating news cycle of AI doom and AI hype. Balanced, occasionally sweary, and stubbornly committed to treating AI like the tool it is, rather than a deity or a supervillain.  
 pin: true
 ---
 
@@ -54,7 +54,7 @@ It's become sexy to talk about the real-life rise of Skynet. AI doom-mongering g
 
 Some commentators have even made timeline and probability projections for when AI will achieve consciousness, turn against us, or trigger some kind of technological singularity. These predictions sound authoritative until you realise they're essentially guesses built on assumptions stacked on top of other assumptions, with some linear algebra to make them seem more scientific.
 
-Here's my take: We don't currently have the data, methodologies, or instruments to accurately predict if or when AI will develop into an existential threat. We can barely predict what the weather will do next week or which way the stock market will move, but apparently we're confident about mapping out the rise of machine consciousness? Yeah, nah.
+Here's my take: We don't currently have the data, methodologies, or instruments to accurately predict if or when AI will develop into an existential threat. We can barely predict what the weather will do next week or which way the stock market will move, but apparently we're confident about mapping out the rise of machine consciousness?
 
 However, where I differ from the AI evangelists and wild optimists is that I see the unknown as possibly containing danger, and that in itself is cause for proceeding with caution.
 
@@ -71,7 +71,7 @@ Those risks are concrete, measurable, and causing actual harm today. Let's focus
 
 Fair question. I'm an aging Xennial who's had a front-row seat to basically every major tech shift of the past few decades. My education, career, and life experience spans the analogue era, dumb phones, Internet 1.0, the dot-com boom and bust, Internet 2.0, smartphones, the rise of social media, the GFC, the enshittification of basically everything online, crypto, brain rot, and now the AI era.
 
-I've worked in essential services (energy and water, the stuff that keeps society functioning when everything else goes to shit), higher education (where I learned that institutional bureaucracy is its own kind of AI in that it's mindless, inscrutable, and occasionally causes harm), IT, and digital project management (where I spent years watching people make the same mistakes with new technologies over and over again).
+I've worked in essential services (energy and water, the stuff that keeps society functioning when everything else goes south), higher education (where I learned that institutional bureaucracy is its own kind of AI in that it's mindless, inscrutable, and occasionally causes harm), IT, and digital project management (where I spent years watching people make the same mistakes with new technologies over and over again).
 
 I'm writing these articles partly to develop my own knowledge and understanding, nothing forces you to actually think through your positions like having to explain them coherently to strangers on the internet. But I'm also writing them to encourage good-faith discussion about the utility and future of AI, because right now most of the public discourse oscillates between "AI will solve all of humanity's problems" and "AI will kill us all," with not a lot of nuance in between.
 
