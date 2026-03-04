@@ -6,7 +6,7 @@ tags: [ai, jobs, automation, workplace, economics]
 description: "AI leaders reckon your job's got about five years left. The data reckons they're full of it. Here's a balanced look at why AI-driven job displacement will be real, but probably not the overnight apocalypse that makes for good keynote speeches."
 image:
   path: /assets/img/bobs.jpg
-  alt: "The last thing your job sees before it gets rightsized."
+  alt: 'The last thing your job sees before it gets "rightsized".'
 ---
 
 AI leaders have been making some pretty bold claims about job displacement lately. Given that the people making them have a vested interest in you believing them, they're worth scrutinising.
